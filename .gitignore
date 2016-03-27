@@ -1,0 +1,4 @@
+/obj
+/*.suo
+/bin/*.vshost.exe
+/bin/*.vshost.exe.manifest
