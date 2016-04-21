@@ -2,6 +2,8 @@
 仙境传说高强度封包密钥生成器（专治WPE封包重发器）
 
 [![Build Status](https://travis-ci.org/CairoLee/PacketkeysGenerator.svg?branch=master)](https://travis-ci.org/CairoLee/PacketkeysGenerator)
+![Language](https://img.shields.io/badge/language-C%23-blue.svg)
+![.Net Framework](https://img.shields.io/badge/.Net%20Framework-4.0-orange.svg)
 
 ## 更新日志
 
