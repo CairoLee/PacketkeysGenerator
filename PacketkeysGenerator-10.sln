@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PacketkeysGenerator", "PacketkeysGenerator.csproj", "{7B4E7D97-F518-4E8D-90E8-54EB0473A618}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PacketkeysGenerator", "csproj-10\PacketkeysGenerator.csproj", "{7B4E7D97-F518-4E8D-90E8-54EB0473A618}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

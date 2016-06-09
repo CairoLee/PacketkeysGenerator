@@ -2,3 +2,5 @@
 /*.suo
 /bin/*.vshost.exe
 /bin/*.vshost.exe.manifest
+/csproj-10/obj
+/.vs/PacketkeysGenerator/v14/*.suo
